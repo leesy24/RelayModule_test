@@ -1,6 +1,6 @@
 Name,Value,Comment
 FRAME_RATE,20,Frame rate per second of screen update in Hz. 20Hz=50msec 50Hz=20msec
-Relay_Module_UART_port_name,COM1,UART port name of Relay module.
+Relay_Module_UART_port_name,COM2,UART port name of Relay module.
 Relay_Module_UART_baud_rate,115200,UART baud rate of Relay module.
 Relay_Module_UART_parity,N,UART parity of Relay module.
 Relay_Module_UART_data_bits,8,UART baud rate of Relay module.
